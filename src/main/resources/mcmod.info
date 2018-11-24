@@ -1,0 +1,16 @@
+[
+{
+  "modid": "anvilforge",
+  "name": "AnvilForge",
+  "description": "An Implementation of the AnvilAPI for Forge",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["tilera"],
+  "credits": "tilera, mineprojectz and TeamAnvil",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
